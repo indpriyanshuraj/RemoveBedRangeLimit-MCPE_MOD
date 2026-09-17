@@ -1,0 +1,24 @@
+# Build and temporary output
+build/
+dist/
+out/
+tmp/
+temp/
+
+# Downloaded/local release files
+*.levipack
+*.so
+*.zip
+
+# Local tooling/cache
+.cache/
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Others
+commit_msg.txt

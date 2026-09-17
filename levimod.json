@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "remove_bed_range_limit",
+  "version": "1.1.0",
+  "minecraft_versions": [
+    "1.26.X.X"
+  ],
+  "info": {
+    "name": "RemoveBedRangeLimit",
+    "author": "RealBatu20 (DXRK)",
+    "description": "RemoveBedRangeLimit is a mod that removes the \"Bed too far away\" problem on Bedrock, allowing you to interact with a bed from any range.",
+    "homepage_url": "https://github.com/RealBatu20/RemoveBedRangeLimit-MCPE_MOD",
+    "icon": "assets/icon.png",
+    "tags": [
+      "Utility",
+      "Gameplay"
+    ]
+  },
+  "release_assets": {
+    "include": [
+      "*.levipack",
+      "*.so"
+    ],
+    "labels": {
+      "RemoveBedRangeLimit.levipack": "LeviPack",
+      "libunlimited_bed_range.so": "Native library"
+    }
+  }
+}
