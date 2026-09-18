@@ -1,16 +1,9 @@
 {
   "schema_version": 1,
   "id": "remove_bed_range_limit",
-<<<<<<< HEAD
-  "version": "1.1.0",
-  "minecraft_versions": [
-    "1.26.X.X"
-||||||| (empty tree)
-=======
   "version": "1.4.0",
   "minecraft_versions": [
     "1.26.40.X"
->>>>>>> 3f0f0d3 (feat: add RemoveBedRangeLimit release files for version 1.4.0)
   ],
   "info": {
     "name": "RemoveBedRangeLimit",
